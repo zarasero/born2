@@ -1,4 +1,6 @@
-42cursus - Born2beroot
+4
+https://github.com/benmaia/42_Born2beRoot_Guide/tree/master/Born2beRoot
+2cursus - Born2beroot
 Оглавление
 Установка
 судо
